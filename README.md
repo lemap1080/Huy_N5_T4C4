@@ -41,10 +41,19 @@ Here are some images of our project:
   </tr>
 </table>
 
-## Getting Started
+## Some Detail About Website
 
-To explore our project:
+### Labels
+![Labebs](https://github.com/user-attachments/assets/a958a2c2-2820-45ec-8906-c9b9bc0e30cd)
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username/hut-coffee.git
+### Issues
+![Issues](https://github.com/user-attachments/assets/97056071-9649-4c0e-b560-7815ef0669fb)
+
+### Close Milestone
+![Close Milestone](https://github.com/user-attachments/assets/e41920b5-96d7-4491-8a8a-31d7a5fc7826)
+
+### Open Milestones
+![Open Milestones](https://github.com/user-attachments/assets/9820b9e7-4f18-4a5c-b502-c41f8a46e208)
+
+
+
